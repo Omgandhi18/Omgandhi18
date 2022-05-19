@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Omgandhi18
-- 👀 I’m interested in Android,iOS,Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Android,iOS.
 - 💞️ I’m looking to collaborate on Android Projects using Java,iOS Projects,
 - 📫 You can reach me by email: omgandhi255@gmail.com
