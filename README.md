@@ -1,6 +1,5 @@
 ![christopher-gower-m_HRfLhgABo-unsplash](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/02f15f20-e569-4ee4-837f-7e8a37eae90e)
 <h1> iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
-<br>
 <h2>🤟🏻 About me</h2>
 <p>
 I am a passionate mobile app developer with a creative mindset and a zeal to learn new technologies from time to time.
@@ -17,7 +16,6 @@ I approach problems with a creative mindset and aim to find as many solutions I 
 <p>
 If you’d like to know more about my experience, feel free to reach out I’d love to chat with you!
 </p>
-<br>
 <h2>💻 Contact me</h2>
 <a href = "https://www.linkedin.com/in/om-gandhi-3734b71b4/">
   <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
