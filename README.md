@@ -1,5 +1,5 @@
 ![christopher-gower-m_HRfLhgABo-unsplash](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/02f15f20-e569-4ee4-837f-7e8a37eae90e)
-<h1> iOS Developer | CSE Undergrad 2023 | Fun Techie</h1>
+<h1> iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
 <br>
 <h2>🤟🏻 About me</h2>
 <p>
@@ -21,6 +21,9 @@ If you’d like to know more about my experience, feel free to reach out I’d l
 <h2>💻 Contact me</h2>
 <a href = "https://www.linkedin.com/in/om-gandhi-3734b71b4/">
   <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
+</a>
+<a href = "mailto: omgandhi255@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
 </a>
 <h2>My Tech Stack</h2>
 <p>
@@ -116,9 +119,24 @@ If you’d like to know more about my experience, feel free to reach out I’d l
     </a>
     <a>
       <img src="https://img.shields.io/badge/Arduino IDE-00878F?logo=arduino&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    
+    </a>    
   </p>
-    
+  <p>
+    <b>🖥️ Operating Systems</b>
+  </p>
+  <p>
+    <a>
+      <img src="https://img.shields.io/badge/iOS-000000?logo=ios&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
+    </a> 
+    <a>
+      <img src="https://img.shields.io/badge/macOS-000000?logo=macos&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
+    </a>
+    <a>
+      <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
+    </a>
+    <a>
+      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows10&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
+    </a>
+  </p>
 </p>
 
