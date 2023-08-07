@@ -1,4 +1,4 @@
-![christopher-gower-m_HRfLhgABo-unsplash](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/02f15f20-e569-4ee4-837f-7e8a37eae90e)
+![daniel-sessler-yM9uEYkieBg-unsplash (1)](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/7917349a-8a57-4a24-b582-7ecd9d5ef756)
 <h1> iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
 <h2>🤟🏻 About me</h2>
 <p>
