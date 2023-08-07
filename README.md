@@ -17,7 +17,7 @@ I approach problems with a creative mindset and aim to find as many solutions I 
 If you’d like to know more about my experience, feel free to reach out I’d love to chat with you!
 </p>
 <h2>💻 Contact me</h2>
-<a href = "https://www.linkedin.com/in/om-gandhi-3734b71b4/">
+<a href = "https://www.linkedin.com/in/om-gandhi-3734b71b4/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
 </a>
 <a href = "mailto: omgandhi255@gmail.com">
