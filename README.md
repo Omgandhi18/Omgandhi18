@@ -23,6 +23,9 @@ If you’d like to know more about my experience, feel free to reach out I’d l
 <a href = "mailto: omgandhi255@gmail.com">
   <img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
 </a>
+<a href = "https://instagram.com/om_gandhi_19?igshid=MzRlODBiNWFlZA==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
+</a>
 <h2>My Tech Stack</h2>
 <p>
   <p>
