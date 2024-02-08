@@ -20,7 +20,7 @@ If you’d like to know more about my experience, feel free to reach out I’d l
 <a target = "_blank" href = "https://www.linkedin.com/in/om-gandhi-3734b71b4/">
   <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
 </a>
-<a href = "mailto: omgandhi255@gmail.com">
+<a href = "mailto: omkgandhi@outlook.com">
   <img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
 </a>
 <a href = "https://instagram.com/om_gandhi_19?igshid=MzRlODBiNWFlZA==">
