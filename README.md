@@ -1,4 +1,4 @@
-![image](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/b2f74e68-c8a8-41c6-ac3f-e8c1da0651ce)
+![image](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/5fead454-68df-4dc2-98cf-2db6380f4013)
 
 <h1> Student at Edinburgh Napier Unviersity | iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
 <h2>🤟🏻 About me</h2>
