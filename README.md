@@ -1,6 +1,6 @@
 ![image](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/0be80bf1-7f0f-431d-be32-e5ce67afbbfc)
 
-<h1> Student at Edinburgh Napier Unviersity | iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
+<h1> Student at Edinburgh Napier University | iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
 <h2>🤟🏻 About me</h2>
 <p>
 I am a passionate software developer with a creative mindset and a zeal to learn new technologies from time to time.
