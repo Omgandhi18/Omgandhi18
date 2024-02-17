@@ -1,5 +1,6 @@
-![daniel-sessler-yM9uEYkieBg-unsplash (1)](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/7917349a-8a57-4a24-b582-7ecd9d5ef756)
-<h1> iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
+![image](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/88afaaca-d2b8-413b-82f5-e6cd6681f735)
+
+<h1> Student at Edinburgh Napier Unviersity | iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
 <h2>🤟🏻 About me</h2>
 <p>
 I am a passionate software developer with a creative mindset and a zeal to learn new technologies from time to time.
