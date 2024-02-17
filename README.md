@@ -2,16 +2,16 @@
 <h1> iOS Developer | CSE Undergrad 2023 | Enthusiastic Techie</h1>
 <h2>🤟🏻 About me</h2>
 <p>
-I am a passionate mobile app developer with a creative mindset and a zeal to learn new technologies from time to time.
+I am a passionate software developer with a creative mindset and a zeal to learn new technologies from time to time.
 </p>
 <p>
-Currently an Jr. iOS developer, I have gained my technical skills from various certifications apart from my undergrad education. I have also gained additional experience in software development by undergoing various internships and trainings in different fields and specialisations. 
+Currently pursuing a Master's degree in Business Information Technology from Edinburgh Napier University, United Kingdom, I have gained my technical skills from various certifications apart from my undergrad education. I have also gained additional experience in software development by undergoing various internships and trainings in different fields and specialisations. 
 </p>
 <p>
 I have an ongoing portfolio of projects implementing a variety of technologies and frameworks using agile methodologies. 
 </p>
 <p>
-I approach problems with a creative mindset and aim to find as many solutions I can get to a given problem to be able to find out the most effective way to solve it. I am also aiming to pursue a Master's degree in Computer Science to further expand my skills.
+I approach problems with a creative mindset and aim to find as many solutions I can get to a given problem to be able to find out the most effective way to solve it.
 </p>
 <p>
 If you’d like to know more about my experience, feel free to reach out I’d love to chat with you!
