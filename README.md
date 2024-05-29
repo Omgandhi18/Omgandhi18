@@ -65,9 +65,6 @@ If you’d like to know more about my experience, feel free to reach out I’d l
       <img src="https://img.shields.io/badge/Alamofire-ff5050?logo=&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
     </a>
      <a>
-      <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-     <a>
       <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
     </a>
     <a>
@@ -98,6 +95,9 @@ If you’d like to know more about my experience, feel free to reach out I’d l
     </a>
     <a>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;">
+    </a>
+     <a>
+      <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
     </a>
   </p>
   <p>
