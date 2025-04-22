@@ -30,118 +30,16 @@ If you’d like to know more about my experience, feel free to reach out I’d l
 <a href = "https://omgandhi18.github.io/">
   <img src = "https://img.shields.io/badge/website-003049?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-<h2>My Tech Stack</h2>
-<p>
-  <p>
-    <b>🧑🏻‍💻I'm Currently learning...</b>
-  </p>
-  <p>
-    <a>
-      <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-  </p>
-  <p>
-    <b><> Technologies</b>
-  </p>
-  <p>
-    <a>
-      <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Java-F80000?logo=oracle&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-     <a>
-      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-  </p>
-  <p>
-    <b>📚 Libraries and Frameworks</b>
-  </p>
-  <p>
-    <a>
-      <img src="https://img.shields.io/badge/Alamofire-ff5050?logo=&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-     <a>
-      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/ML Kit-4285F4?logo=googlelens&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Picasso-0099cc?logo=&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-     <a>
-      <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-     <a>
-      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-     <a>
-      <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-  </p>
-  <p>
-    <b>🗄️ Databases:-</b>
-  </p>
-  <p>
-     <a>
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&amp;logoColor=black&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-     <a>
-      <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-  </p>
-  <p>
-    <b>💻 Version Control, IDEs</b>
-  </p>
-  <p>
-    <a>
-      <img src="https://img.shields.io/badge/Github-181717?logo=github&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Intellij IDEA-000000?logo=intellijidea&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Arduino IDE-00878F?logo=arduino&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>    
-  </p>
-  <p>
-    <b>🖥️ Operating Systems</b>
-  </p>
-  <p>
-    <a>
-      <img src="https://img.shields.io/badge/iOS-000000?logo=ios&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a> 
-    <a>
-      <img src="https://img.shields.io/badge/macOS-000000?logo=macos&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows10&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-    </a>
-  </p>
-</p>
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Omgandhi18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Omgandhi18&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omgandhi18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Omgandhi18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
