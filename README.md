@@ -1,45 +1,112 @@
-![image](https://github.com/Omgandhi18/Omgandhi18/assets/81526761/0be80bf1-7f0f-431d-be32-e5ce67afbbfc)
+<!-- HEADER -->
+<div align="center">
 
-<h1> Mobile Developer @ Magenta Insights | React Native, SwiftUI, UIKit, Jetpack Compose, Kotlin</h1>
-<h2>🤟🏻 About me</h2>
-<p>
-I am a passionate software developer with a creative mindset and a zeal to learn new technologies from time to time.
-</p>
-<p>
-Currently pursuing a Master's degree in Business Information Technology from Edinburgh Napier University, United Kingdom, I have gained my technical skills from various certifications apart from my undergrad education. I have also gained additional experience in software development by undergoing various internships and trainings in different fields and specialisations. 
-</p>
-<p>
-I have an ongoing portfolio of projects implementing a variety of technologies and frameworks using agile methodologies. 
-</p>
-<p>
-I approach problems with a creative mindset and aim to find as many solutions I can get to a given problem to be able to find out the most effective way to solve it.
-</p>
-<p>
-If you’d like to know more about my experience, feel free to reach out I’d love to chat with you!
-</p>
-<h2>💻 Contact me</h2>
-<a target = "_blank" href = "https://www.linkedin.com/in/om-gandhi-3734b71b4/">
-  <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-</a>
-<a href = "mailto: omkgandhi@outlook.com">
-  <img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-</a>
-<a href = "https://instagram.com/om_gandhi_19?igshid=MzRlODBiNWFlZA==">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
-</a>
-<a href = "https://omgandhi18.github.io/portfolio/">
-  <img src = "https://img.shields.io/badge/website-003049?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
+# Om Gandhi
+### Lead Mobile & Frontend Engineer
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Omgandhi18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Omgandhi18&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omgandhi18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Building privacy-first, on-device experiences for iOS, macOS & the web.*
+
+[![Portfolio](https://img.shields.io/badge/omgandhi.dev-000000?style=for-the-badge&logo=safari&logoColor=white)](https://omgandhi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gandhiom)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkgandhi@outlook.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Omgandhi18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
 
+I'm a mobile and frontend engineer with 3+ years shipping production-grade iOS, macOS, and cross-platform apps. Currently leading a team of 5 engineers across a 5-product B2B SaaS suite serving 500+ business customers.
+
+My focus is **on-device AI** — building features that run fully local, protect user privacy, and don't add infrastructure cost. Everything I ship runs in production and stays there.
+
+- 🍎 &nbsp; Shipping Swift, SwiftUI, and CoreML since 2023
+- 🤖 &nbsp; On-device AI with Apple Foundation Models & Google MLKit
+- ⚡ &nbsp; Compressed release cycles from multi-day → weekly with Fastlane + OTA
+- 📍 &nbsp; Ahmedabad, India — open to remote & visa sponsorship
+
+---
+
+## Featured Projects
+
+### 🔑 [Nova Key](https://github.com/Omgandhi18/NovaKey) — On-Device AI Command Palette
+> macOS · Swift · Apple Foundation Models · App Store
+
+A privacy-first productivity utility triggered by `⌘ Shift K`. All natural language processing runs fully on-device using Apple's Foundation Models — zero data egress, near-zero latency, no server costs. Includes offline-capable AI scheduling and unified system search.
+
+`Swift` `SwiftUI` `Foundation Models` `macOS` `CoreML`
+
+---
+
+### 🐷 [Oink!](https://github.com/Omgandhi18/Oink) — Personal Finance Tracker
+> iOS · SwiftUI · SwiftData · App Store
+
+Personal finance app with secure on-device data persistence via SwiftData and real-time spending visualisation using Swift Charts. 100% local — no backend, no subscription, no data collection.
+
+`Swift` `SwiftUI` `SwiftData` `Swift Charts` `iOS`
+
+---
+
+### 🌐 [Translo](https://github.com/Omgandhi18/Translo) — On-Device ML Translator
+> iOS/macOS · Google MLKit
+
+Zero-latency offline translation powered by Google MLKit. Real-time text translation with no server dependency and no inference cost. Works entirely on-device.
+
+`Swift` `SwiftUI` `MLKit` `CoreML` `iOS` `macOS`
+
+---
+
+## Tech Stack
+
+**Apple Platforms**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
+![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
+**Cross-Platform & Web**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**DevOps & Release**
+
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CodePush](https://img.shields.io/badge/CodePush-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omgandhi18&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omgandhi18&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## Currently
+
+- 🏗 &nbsp; Leading frontend engineering at **Magenta Insights** — 5 live B2B SaaS products
+- 📱 &nbsp; Extending **Nova Key** with new Foundation Models features
+- 🌍 &nbsp; Actively exploring **remote roles** in Senior iOS, Lead Mobile, and Senior Frontend
+
+---
+
+<div align="center">
+
+*If you're hiring for iOS, mobile, or frontend — let's talk.*
+
+[![Email](https://img.shields.io/badge/omkgandhi@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkgandhi@outlook.com)
+
+</div>
