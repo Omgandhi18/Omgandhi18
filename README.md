@@ -1,57 +1,33 @@
-<a href="https://omgandhi.dev">
-  <img src="assets/hero.svg" width="100%" alt="An animated iPhone lock screen reading Om Gandhi, Lead Mobile and Frontend Engineer. The Dynamic Island cycles through live activities: Nova Key thinking on-device, a weekly release shipping, and open to senior iOS roles.">
-</a>
-
-<p align="center">
-  <b>iOS · macOS · React Native · On-device AI</b><br>
-  Ahmedabad, India · Remote · Open to visa sponsorship<br>
-  <a href="https://omgandhi.dev">omgandhi.dev</a> · <a href="mailto:omkgandhi@outlook.com">omkgandhi@outlook.com</a>
-</p>
+<a href="https://omgandhi.dev"><img src="assets/lock-screen.svg" width="100%" alt="An animated iPhone lock screen reading Om Gandhi, Lead Mobile and Frontend Engineer. The Dynamic Island cycles through live activities, and notifications arrive with highlights: leading mobile on a 5-product B2B suite with 500+ customers, production bugs down about 80% in a quarter, and Oink! running fully on-device."></a>
 
 <br>
 
-### I build mobile products that ship and stay shipped.
-
-3+ years leading iOS, macOS, and cross-platform engineering. Right now I own a 5-product B2B SaaS suite at [Magenta Insights](https://magentainsights.com), used by 500+ business customers.
-
-- **~80% fewer production bugs** in one quarter
-- **Multi-day release cycles → continuous weekly shipping**
-- **On-device AI** is my thing: features that run fully local, protect privacy, and cost nothing to serve
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/imessage-dark.svg"><img src="assets/imessage-light.svg" width="100%" alt="An iMessage chat. What do you build? Mobile products that ship and stay shipped. I lead iOS, macOS and cross-platform engineering at Magenta Insights, on a 5-product B2B suite. What are you into lately? On-device AI: features that run fully local, protect privacy, and cost nothing to serve. Open to new roles? Yes: Senior iOS, Lead Mobile or Senior Frontend. Remote, and open to visa sponsorship."></picture>
 
 <br>
 
-### Selected work
+### Apps
 
-<p>
-  <a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nova-key-dark.svg"><img src="assets/card-nova-key-light.svg" width="32%" alt="Nova Key: macOS AI command palette powered by Apple Foundation Models. Zero data egress."></picture></a>
-  <a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-oink-dark.svg"><img src="assets/card-oink-light.svg" width="32%" alt="Oink!: personal finance tracker built with SwiftData and Swift Charts, fully on-device."></picture></a>
-  <a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-translo-dark.svg"><img src="assets/card-translo-light.svg" width="32%" alt="Translo: offline ML translator using Google MLKit. No server, no latency, no cost."></picture></a>
-</p>
+<a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-nova-key-dark.svg"><img src="assets/app-nova-key-light.svg" width="100%" alt="Nova Key: macOS AI command palette powered by Apple Foundation Models. Zero data egress. On the App Store."></picture></a>
+<a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-oink-dark.svg"><img src="assets/app-oink-light.svg" width="100%" alt="Oink!: personal finance tracker built with SwiftData and Swift Charts, fully on-device. On the App Store."></picture></a>
+<a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-translo-dark.svg"><img src="assets/app-translo-light.svg" width="100%" alt="Translo: offline ML translator using Google MLKit. No server, no latency, no cost."></picture></a>
 
 <br>
 
-### Stack
+### Home Screen
 
-| Apple | Cross-platform | Shipping |
-| :-- | :-- | :-- |
-| Swift · SwiftUI · UIKit | React Native · React | Fastlane · CodePush |
-| CoreML · Foundation Models · SwiftData | TypeScript · Kotlin | EAS · CI/CD |
+<img src="assets/home-screen.svg" width="100%" alt="An iPhone home screen. Widgets: 3+ years leading mobile; 500+ customers across 5 products at Magenta Insights; production bugs down 80% in a single quarter; weekly releases, which used to take days. Apps: Swift, SwiftUI, UIKit, Core ML, Foundation Models, SwiftData, React Native, React, TypeScript, Kotlin, Fastlane, CodePush. Dock: EAS, CI/CD, Mail, Web.">
 
 <br>
 
-### My contribution graph, eaten fresh every night
+### Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omgandhi18/Omgandhi18/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Omgandhi18/Omgandhi18/output/github-snake.svg" width="100%" alt="A snake winding across my GitHub contribution graph, eating each day's squares.">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omgandhi18/Omgandhi18/output/activity-dark.svg"><img src="https://raw.githubusercontent.com/Omgandhi18/Omgandhi18/output/activity-light.svg" width="100%" alt="Activity widget: my GitHub contribution graph, with a snake that eats it every night."></picture>
 
-<br><br>
+<br>
 
-<p align="center">
-  Open to <b>Senior iOS</b>, <b>Lead Mobile</b>, and <b>Senior Frontend</b> roles.
-</p>
+### Contact
 
-<p align="center">
-  <a href="mailto:omkgandhi@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/say-hi-dark.svg"><img src="assets/say-hi-light.svg" width="360" alt="Slide to say hi: email omkgandhi@outlook.com"></picture></a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg"><img src="assets/contact-light.svg" width="100%" alt="Contact card: Om Gandhi, Lead Mobile and Frontend Engineer. Ahmedabad, India. Remote. Open to visa sponsorship."></picture>
+
+<p align="center"><a href="mailto:omkgandhi@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-mail-dark.svg"><img src="assets/button-mail-light.svg" width="180" alt="Email omkgandhi@outlook.com"></picture></a>&nbsp;&nbsp;<a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-web-dark.svg"><img src="assets/button-web-light.svg" width="180" alt="Website: omgandhi.dev"></picture></a></p>
