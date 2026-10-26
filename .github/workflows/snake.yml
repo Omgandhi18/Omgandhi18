@@ -24,14 +24,15 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
+      # dist/ is created by the snk container as root, so write the widget somewhere else
       - name: Frame it as an iOS Activity widget
-        run: python3 assets/src/frame_activity.py dist/snake.svg dist
+        run: python3 assets/src/frame_activity.py dist/snake.svg out
 
       - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: out
           commit_message: Update Activity widget
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
