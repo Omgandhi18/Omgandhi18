@@ -23,18 +23,9 @@
 ### Selected work
 
 <p>
-  <a href="https://omgandhi.dev"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-nova-key-dark.svg">
-    <img src="assets/card-nova-key-light.svg" width="32%" alt="Nova Key: macOS AI command palette powered by Apple Foundation Models. Zero data egress.">
-  </picture></a>
-  <a href="https://omgandhi.dev"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-oink-dark.svg">
-    <img src="assets/card-oink-light.svg" width="32%" alt="Oink!: personal finance tracker built with SwiftData and Swift Charts, fully on-device.">
-  </picture></a>
-  <a href="https://omgandhi.dev"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-translo-dark.svg">
-    <img src="assets/card-translo-light.svg" width="32%" alt="Translo: offline ML translator using Google MLKit. No server, no latency, no cost.">
-  </picture></a>
+  <a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nova-key-dark.svg"><img src="assets/card-nova-key-light.svg" width="32%" alt="Nova Key: macOS AI command palette powered by Apple Foundation Models. Zero data egress."></picture></a>
+  <a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-oink-dark.svg"><img src="assets/card-oink-light.svg" width="32%" alt="Oink!: personal finance tracker built with SwiftData and Swift Charts, fully on-device."></picture></a>
+  <a href="https://omgandhi.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-translo-dark.svg"><img src="assets/card-translo-light.svg" width="32%" alt="Translo: offline ML translator using Google MLKit. No server, no latency, no cost."></picture></a>
 </p>
 
 <br>
@@ -62,8 +53,5 @@
 </p>
 
 <p align="center">
-  <a href="mailto:omkgandhi@outlook.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/say-hi-dark.svg">
-    <img src="assets/say-hi-light.svg" width="360" alt="Slide to say hi: email omkgandhi@outlook.com">
-  </picture></a>
+  <a href="mailto:omkgandhi@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/say-hi-dark.svg"><img src="assets/say-hi-light.svg" width="360" alt="Slide to say hi: email omkgandhi@outlook.com"></picture></a>
 </p>
